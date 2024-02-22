@@ -1,4 +1,4 @@
-# Simple Discord Bot
+# Really Simple Discord Bot
 
 Discord API has changed and many tutorials for initializing a discord bot is obsolete.
 
