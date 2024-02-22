@@ -4,7 +4,8 @@ intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
 
-# A fake token by token-generator, in production use environment variables instead
+# A fake token by token-generator
+# in production use a real token and hide it with environment variables instead
 TOKEN = "lJUXmqM6oFay3jgjv5jVwYuHG7EWeoFPsDkvJHtRkG6qDi91yFY0WoMPX61HpEWB"
 
 @client.event
