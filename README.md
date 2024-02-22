@@ -1,6 +1,6 @@
 # Simple Discord Bot
 
-Discord API has changed and many tutorials for initializing a discord bot is now obsolete.
+Discord API has changed and many tutorials for initializing a discord bot is obsolete.
 
 I created this repo to showcase how you can create a fully functioning bot without delving into details.
 
